@@ -40,8 +40,7 @@ ruby 2.3.3p222 (2016-11-21 revision 56859) [x64-mingw32]`
 
 ◆GeckoDriver（version 0.18.0）
 
-[Download GeckoDriver 0.18.0]
-(https://github.com/mozilla/geckodriver/releases/tag/v0.18.0)
+[Download GeckoDriver 0.18.0](https://github.com/mozilla/geckodriver/releases/tag/v0.18.0)
 
 > Version：geckodriver-v0.18.0-win64.zip
 
