@@ -1,6 +1,5 @@
 # Selenium_Tools
 
-----
 ## overview
 
 特定サイトへの自動申し込みツール。
